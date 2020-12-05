@@ -15,7 +15,7 @@ p {
 }
 
 hr {
-  border: dotted #44c662 6px;
+  border: dotted #ff971d 6px;
   border-bottom: none;
   width: 4%;
   margin: 50px auto;
@@ -23,17 +23,6 @@ hr {
 
 .img-rrmm {
   background-image: url("../images/wisdom-kings.png");
-  position: relative;
-  background-color: #fff;
-  height: 30rem;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.img-merry {
-  background-image: url("../images/christmas.jpg");
   position: relative;
   background-color: #fff;
   height: 30rem;
@@ -59,7 +48,7 @@ hr {
 #boton {
   position: relative;
   display: block;
-  width: 200px;
+  width: auto;
   height: 45px;
   border-radius: 18px;
   background-color: #ff971d;
